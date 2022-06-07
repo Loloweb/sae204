@@ -1,0 +1,57 @@
+id_module;id_ue;nom_module;coef_module;cm_module;td_module;tp_module;id_semestre
+M3303;UE33;PPP - Préciser son projet;1.0;0;10;10;S3
+M3301;UE33;Méthodologie de la production d'applications;3.0;14;22;24;S3
+M1104;UE11;Introduction aux bases de données;3.5;10;25;25;S1
+M2106;UE21;Programmation et administration des bases de données;2.5;10;15;20;S2
+M3104;UE31;Programmation web coté serveur;2.5;15;14;16;S3
+M3106C;UE31;Bases de données avancées;1.5;8;10;12;S3
+M4103C;UE41;Programmation web - client riche;1.5;8;10;12;S4
+M1101;UE11;Introduction aux systèmes informatiques;3.5;10;20;30;S1
+M1102;UE11;Introduction à l'algorithmique et à la programmation;3.5;10;20;30;S1
+M1103;UE11;Structures de données et algorithmes fondamentaux;2.5;10;15;20;S1
+M1105;UE11;Conception de documents et d’interfaces numériques;2.5;0;20;25;S1
+M1201;UE12;Mathématiques discrètes;2.5;10;18;17;S1
+M1202;UE12;Algèbre linéaire;2.0;6;12;12;S1
+M1203;UE12;Environnement économique;1.5;10;10;10;S1
+M1204;UE12;Fonctionnement des organisations;2.5;10;20;15;S1
+M1205;UE12;Expression-Communication - Fondamentaux de la communication;2.0;0;15;15;S1
+M1206;UE12;Anglais et Informatique;1.5;0;15;15;S1
+M1207;UE12;PPP - Connaître le monde professionnel;1.0;0;10;10;S1
+M2102;UE21;Architecture des réseaux;1.5;8;10;12;S2
+M2103;UE21;Bases de la programmation orientée objets;3.5;10;20;30;S2
+M2104;UE21;Bases de la conception orientée objet;2.5;10;15;20;S2
+M2105;UE21;Introduction aux IHM;2.5;10;15;20;S2
+M2107;UE21;Projet tutoré - Description et planification de projet;2.0;0;0;0;S2
+M2201;UE22;Graphes et langages;2.5;11;16;18;S2
+M2202;UE22;Analyse et méthodes numériques;2.0;8;12;10;S2
+M2203;UE22;Environnement comptable, financier, juridique et social;3.0;12;18;15;S2
+M2204;UE22;Gestion de projet informatique;1.5;8;12;10;S2
+M2205;UE22;Expression-Communication - Communication, information et argumentation;1.5;0;15;15;S2
+M2206;UE22;Communiquer en anglais;2.5;0;23;22;S2
+M2207;UE22;PPP - Identifier ses compétences;1.0;0;10;10;S2
+M3101;UE31;Principes des systèmes d'exploitation;2.5;15;14;16;S3
+M3102;UE31;Services réseaux;1.5;8;10;12;S3
+M3103;UE31;Algorithmique avancée;1.5;8;10;12;S3
+M3105;UE31;Conception et programmation objet avancées;2.5;18;14;16;S3
+M3201;UE32;Probabilités et statistiques;2.5;15;16;14;S3
+M3203;UE32;Droit des technologies de l’information et de la communication (TIC);1.5;10;10;10;S3
+M3204;UE32;Gestion des systèmes d'information;2.5;15;15;15;S3
+M3205;UE32;Expression-Communication - Communication professionnelle;1.5;0;15;15;S3
+M3206;UE32;Collaborer en anglais;2.5;0;23;22;S3
+M4106;UE41;Projet tutoré – Compléments;2.5;0;0;0;S4
+M4203;UE42;Expression-communication - Communiquer dans les organisations;2.0;0;15;15;S4
+M4204;UE42;Travailler en anglais;2.0;0;15;15;S4
+M1106;UE11;Projet tutoré - Découverte;1.5;0;0;0;S1
+M4301;UE43;Stage professionnel;12.0;0;0;0;S4
+M4101C;UE41;Big Data (Administration système et réseaux);1.5;8;10;12;S4
+M41OS1;UE41;Traitement de l'information;1.5;8;10;12;S4
+M41OS3;UE41;Cryptographie;1.5;8;10;12;S4
+M4201C;UE42;Ateliers de création d'entreprise;2.0;8;12;10;S4
+M3202C;UE32;Modélisations mathématiques;1.5;0;16;14;S3
+M4202C;UE42;Recherche opérationnelle et aide à la décision;2.0;8;12;10;S4
+M4104C;UE41;Conception et développement d’applications mobiles;1.5;8;10;12;S4
+M4102C;UE41;Programmation répartie;1.5;8;10;12;S4
+M3302;UE33;Projet tutoré - Mise en situation professionnelle;2.0;0;0;0;S3
+M2101;UE21;Architecture et programmation des mécanismes de base d'un système informatique.;1.5;8;10;12;S2
+M41OS2;UE41;Complexité des algorithmes;1.5;8;10;12;S4
+M4105C;UE41;Formats et traitement de données internet  (Compléments d’informatique en vue d’une insertion immédiate);1.5;8;10;12;S4
